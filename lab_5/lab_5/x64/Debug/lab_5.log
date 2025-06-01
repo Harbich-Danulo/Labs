@@ -1,0 +1,6 @@
+﻿  Converter.cpp
+C:\Users\danul\source\repos\lab_5\lab_5\Converter.cpp(106,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danul\source\repos\lab_5\lab_5\Converter.cpp(143,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\danul\source\repos\lab_5\lab_5\Converter.cpp(154,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danul\source\repos\lab_5\lab_5\Converter.cpp(170,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab_5.vcxproj -> C:\Users\danul\source\repos\lab_5\x64\Debug\lab_5.exe
